@@ -14,7 +14,7 @@ Hardware: Electronics Repair, Component-Level Diagnostics
 
 📫 Connect with me:
 
-LinkedIn: [https://www.linkedin.com/in/ferhatcekim/]
+LinkedIn: https://www.linkedin.com/in/ferhatcekim/
 
 Email: ferhatcekim203@gmail.com
 
