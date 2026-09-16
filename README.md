@@ -12,7 +12,7 @@ When I am not coding, you can find me reading engineering postmortems, experimen
 
 LinkedIn: https://www.linkedin.com/in/ferhatcekim/
 
-Email:    ferhatcekim@protonmail.com
+Email: ferhatcekim@protonmail.com
 
 
 🔭 I’m currently working on leetcode <br />
