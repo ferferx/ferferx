@@ -15,5 +15,4 @@ LinkedIn: https://www.linkedin.com/in/ferhatcekim/
 Email: ferhatcekim@protonmail.com
 
 
-🔭 I’m currently working on leetcode <br />
-🌱 I’m currently learning c++
+🔭 I’m currently doing leetcode <br />
