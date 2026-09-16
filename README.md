@@ -1,36 +1,19 @@
 ## Hi there I'm Ferhat! 👋
 
-Cross-Platform Mobile Developer & IT Specialist
+Software Engineer • Crafting reliable software and exploring intelligent systems.
 
-I am a senior university student I specialize in building efficient, user-focused mobile applications.
+I am a software engineer focused on building software solutions and exploring practical applications of Artificial Intelligence and Machine Learning.
 
-🛠️ Tech Stack & Tools:
+My journey started with a fascination for algorithmic problem solving and systems design. Today, I enjoy turning complex challenges into maintainable, well-tested code—from CLI automation tools to intelligent data-driven applications.
 
-Languages: C#, SQL
-
-Frameworks/Platforms: .NET MAUI, .NET Web API
-
-Hardware: Electronics Repair, Component-Level Diagnostics
+When I am not coding, you can find me reading engineering postmortems, experimenting with open-source LLMs, or diving into computer systems fundamentals.
 
 📫 Connect with me:
 
 LinkedIn: https://www.linkedin.com/in/ferhatcekim/
 
-Email: ferhatcekim203@gmail.com
+Email: ferhatcekim@protonmail.com
 
 
 🔭 I’m currently working on leetcode <br />
-🌱 I’m currently learning c/c++
-<!--
-**ferferx/ferferx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning c++
